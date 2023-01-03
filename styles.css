@@ -1,7 +1,7 @@
 .card
 {
     background-image:  linear-gradient(to left,rgba(39,42,55,0.6) 0%,rgba(39,42,55,1) 100%) ,
-    url('/home/sai/repos/odin-signup-page/tobias-rademacher-NuBvAE6VfSM-unsplash.jpg');
+    url('tobias-rademacher-NuBvAE6VfSM-unsplash.jpg');
     
     background-size: cover;
     width: 150vh;
